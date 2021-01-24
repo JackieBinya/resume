@@ -10,7 +10,7 @@
     background: #fff; }  */
 
 .container{
-    max-width: 19cm;
+    max-width: 20cm;
     margin: 0 auto;
 }
 
@@ -20,6 +20,7 @@ h1, h2{
     font-weight: 900;
     letter-spacing: -0.03em;
     line-height: 0.8;
+    opacity: 0.8;
 }
 
 h1{
