@@ -3,7 +3,8 @@
 html, body{
     width: 21cm;
     height: 29.7cm;
-    background: #fff; }
+    background: #fff;
+}
 
 .container{
     max-width: 20cm;
@@ -120,7 +121,7 @@ main{
 }
 
 .heading-container a{
-    padding: 0.8rem;
+    padding: 0.5rem;
 }
 
 
